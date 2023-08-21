@@ -1,0 +1,16 @@
+.discount__background {
+  background: var(--color-green-300);
+}
+
+.discount { 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: var(--spacing-3);
+  color: var(--text-slate-900);
+  padding: 0.875rem var(--spacing-9);
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.25rem;
+}

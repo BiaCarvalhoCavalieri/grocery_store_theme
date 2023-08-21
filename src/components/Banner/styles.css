@@ -1,0 +1,4 @@
+.banner {
+  margin-top: var(--spacing-5);
+  border-radius: var(--radius-rounded-md);
+}

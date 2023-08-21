@@ -1,0 +1,10 @@
+.footer {
+  color: var(--text-slate-600);
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1rem;
+  background: var(--bg-slate-100);
+  padding: var(--spacing-6) var(--spacing-9);
+  text-align: center;
+  margin-top: var(--spacing-6);
+}
